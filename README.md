@@ -5,32 +5,9 @@
 
 
 
-![D](https://img.shields.io/badge/D-00E5FF?style=for-the-badge)
-![E](https://img.shields.io/badge/E-FF4081?style=for-the-badge)
-![V](https://img.shields.io/badge/V-76FF03?style=for-the-badge)
-![A](https://img.shields.io/badge/A-FFD600?style=for-the-badge)
-![D](https://img.shields.io/badge/D-FF6D00?style=for-the-badge)
-![A](https://img.shields.io/badge/A-AA00FF?style=for-the-badge)
-![S](https://img.shields.io/badge/S-00C853?style=for-the-badge)
-
-<br>
-
-![V](https://img.shields.io/badge/V-00E5FF?style=for-the-badge)
-![I](https://img.shields.io/badge/I-FF4081?style=for-the-badge)
-![J](https://img.shields.io/badge/J-76FF03?style=for-the-badge)
-![A](https://img.shields.io/badge/A-FFD600?style=for-the-badge)
-![Y](https://img.shields.io/badge/Y-FF6D00?style=for-the-badge)
-![A](https://img.shields.io/badge/A-AA00FF?style=for-the-badge)
-![N](https://img.shields.io/badge/N-00C853?style=for-the-badge)
-
-<br>
-
-![S](https://img.shields.io/badge/S-00E5FF?style=for-the-badge)
-![H](https://img.shields.io/badge/H-FF4081?style=for-the-badge)
-![E](https://img.shields.io/badge/E-76FF03?style=for-the-badge)
-![E](https://img.shields.io/badge/E-FFD600?style=for-the-badge)
-![L](https://img.shields.io/badge/L-FF6D00?style=for-the-badge)
-![A](https://img.shields.io/badge/A-AA00FF?style=for-the-badge)
+![DEVADAS](https://img.shields.io/badge/DEVADAS-00E5FF?style=for-the-badge)
+![VIJAYAN](https://img.shields.io/badge/VIJAYAN-FF4081?style=for-the-badge)
+![SHEELA](https://img.shields.io/badge/SHEELA-76FF03?style=for-the-badge)
 
 
 ![Devadas Vijayan Sheela](https://img.shields.io/badge/DEVADAS_VIJAYAN_SHEELA-Robotics_Researcher-6e40c9?style=for-the-badge&logo=robotframework&logoColor=white)
