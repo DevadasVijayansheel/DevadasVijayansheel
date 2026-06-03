@@ -1,11 +1,15 @@
 
 <div align="center">
 
-![DEVADAS](https://img.shields.io/badge/DEVADAS-00E5FF?style=for-the-badge)
-![VIJAYAN](https://img.shields.io/badge/VIJAYAN-FF4081?style=for-the-badge)
+![DEVADAS](https://img.shields.io/badge/DEVADAS-76FF03?style=for-the-badge)
+![VIJAYAN](https://img.shields.io/badge/VIJAYAN-76FF03?style=for-the-badge)
 ![SHEELA](https://img.shields.io/badge/SHEELA-76FF03?style=for-the-badge)
 
 ![Robotics Research Assistant](https://img.shields.io/badge/Robotics_Research_Assistant-6e40c9?style=for-the-badge&logo=robotframework&logoColor=white)
+
+</div>
+```
+
 
 ### M.Sc. Electromobility (Robotics & AI) · FAU Erlangen-Nürnberg
 
