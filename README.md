@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="images/banner.png.png" width="100%">
-</p>
 
 <div align="center">
 
