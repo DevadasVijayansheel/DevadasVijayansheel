@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&pause=1000&color=F9A825&center=true&vCenter=true&width=500&lines=%3E+whoami" alt="Typing SVG" />
+
 ```
  ___   ___ __   __   _    ___     _    ___
 |   \ | __| \ \ / /  /_\  |   \   /_\  / __|
@@ -17,14 +19,13 @@ __   __ ___     _    _   __   __   _    _  _
 |___/|_||_||___||___||____|/_/ \_\
 ```
 
-# Devadas Vijayan Sheela
-### Robotics & AI Research Assistant · M.Sc. Electromobility (Robotics & AI) · FAU Erlangen-Nürnberg
+### Robotics & AI Research Assistant &nbsp;·&nbsp; M.Sc. Electromobility (Robotics & AI) &nbsp;·&nbsp; FAU Erlangen-Nürnberg
 
-[![GitHub](https://img.shields.io/badge/GitHub-DevadasVijayansheel-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevadasVijayansheel)
-[![Location](https://img.shields.io/badge/Location-Nuremberg%2C_Germany-0078D4?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Nuremberg)
-[![Email](https://img.shields.io/badge/Email-devadasvs2022%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:devadasvs2022@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devadas-vijayan-sheela)
-[![Organization](https://img.shields.io/badge/Org-%40RobotDLO-6e40c9?style=flat-square&logo=github&logoColor=white)](https://github.com/RobotDLO)
+[![GitHub](https://img.shields.io/badge/GitHub-DevadasVijayansheel-0d1e35?style=flat-square&logo=github&logoColor=4fc3f7)](https://github.com/DevadasVijayansheel)
+[![Location](https://img.shields.io/badge/Location-Nuremberg%2C_Germany-0d1e35?style=flat-square&logo=googlemaps&logoColor=26c6da)](https://maps.google.com/?q=Nuremberg)
+[![Email](https://img.shields.io/badge/Email-devadasvs2022%40gmail.com-0d1e35?style=flat-square&logo=gmail&logoColor=26a69a)](mailto:devadasvs2022@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1e35?style=flat-square&logo=linkedin&logoColor=42a5f5)](https://www.linkedin.com/in/devadas-vijayan-sheela)
+[![Organization](https://img.shields.io/badge/Org-%40RobotDLO-0d1e35?style=flat-square&logo=github&logoColor=ab47bc)](https://github.com/RobotDLO)
 
 </div>
 
@@ -43,39 +44,62 @@ devadas = {
 }
 ```
 
-> I build robots that think. My work spans drone autonomy, sim-to-real RL, vision-language-action models, and robotic manipulation — from simulation in Isaac Sim to real hardware on the Franka FR3.
+> I build robots that think. Currently pursuing my Master's in Autonomous Systems — working across drone navigation, sim-to-real RL, and vision-language-action models. I like my agents the way I like my code: lean, adaptive, and ready for the real world.
 
 ---
 
 ## `> research --current`
 
-| Role | Institute | Focus |
-|------|-----------|-------|
-| 🔬 **Research Assistant** | University of Technology Nuremberg (UTN) | Robotic manipulators · Bin-picking benchmarking · Scientific publications |
-| 🦾 **Thesis Researcher** | FAPS, FAU Erlangen | RL navigation · Isaac Sim · ROS 2 · Assistive mobile manipulators |
-| 🚁 **Research Assistant** | Fraunhofer IVI | Autonomous drones · YOLO · RealSense depth cameras |
+| Role | Institute | Period | Focus |
+|------|-----------|--------|-------|
+| 🔬 **Research Assistant** | University of Technology Nuremberg (UTN) | Sep 2025 – Present | Robotic manipulators · Bin-picking benchmarking · Co-author on publications |
+| 🦾 **Thesis Researcher** | FAPS, FAU Erlangen | Jul 2024 – Present | RL navigation · Isaac Sim · ROS 2 · Assistive mobile manipulators |
+| 🚁 **Research Assistant** | Fraunhofer IVI, Ingolstadt | Jul 2024 – Jan 2025 | Autonomous drones · YOLO · Intel RealSense · Real-world flight experiments |
+| 📐 **Teaching Assistant** | FAU Erlangen-Nürnberg | Apr 2024 – Jul 2024 | MATLAB lab sessions · Debugging support · Grading |
 
 ---
 
 ## `> ls ./projects`
 
 ### 🚁 [Autonomous Drone Systems](https://github.com/DevadasVijayansheel/Autonomous-Drone-Systems)
-> YOLO-based object detection + collision avoidance for autonomous drones using Intel RealSense depth cameras. Validated with real-world flight experiments @ Fraunhofer IVI.
+> YOLO-based object detection + collision avoidance using Intel RealSense depth cameras. Validated with real-world flight experiments @ Fraunhofer IVI.
+
+`Python` `YOLO` `RealSense` `Collision Avoidance` `Autonomous Flight`
+
+---
 
 ### 🦾 [Image Segmentation for Robotic Grasping](https://github.com/DevadasVijayansheel/image-segmentation-for-robotic-grasping)
-> SAM-2 segmentation pipeline in Python/PyTorch/OpenCV — enabling robots to identify and grasp objects from visual input.
+> SAM-2 segmentation pipeline enabling robots to identify and grasp objects from visual input.
+
+`Python` `PyTorch` `OpenCV` `SAM-2` `Robotic Manipulation`
+
+---
 
 ### ⚡ [NVIDIA Isaac Sim](https://github.com/DevadasVijayansheel/NVIDIA-Isaacsim)
-> CAD-to-URDF workflows, multibody dynamic simulation, and autonomous indoor navigation for custom assistive robots. ROS 2 + Nav2 integration.
+> CAD-to-URDF workflows, multibody dynamic simulation, and autonomous indoor navigation. Sim-to-real consistency with ROS 2 + Nav2.
+
+`Isaac Sim` `ROS 2` `Nav2` `URDF` `Sim-to-Real`
+
+---
 
 ### 🤖 [Robot Control Stack](https://github.com/DevadasVijayansheel/robot-control-stack)
-> Forked & extended: lean sim-to-real framework for VLA models & RL agents. Native MuJoCo Gymnasium wrappers for Franka FR3 and UR5e.
+> Lean sim-to-real framework for VLA models & RL agents. Native MuJoCo Gymnasium wrappers for Franka FR3 and UR5e.
+
+`Python` `MuJoCo` `VLA` `RL` `Franka FR3` `UR5e`
+
+---
 
 ### 🧠 [Machine Learning](https://github.com/DevadasVijayansheel/Machine-Learning)
-> Research notebooks: RL, deep learning, imitation learning experiments.
+> Research notebooks covering RL, deep learning, and imitation learning experiments.
+
+`Jupyter` `PyTorch` `NumPy` `Pandas`
+
+---
 
 ### 🔧 Hardware Prototyping — LeRobot SO-101 & VLA Integration
-> Integrated SO-101 arm, ZED Mini, and Hugging Face VLA models (ACT, X-VLA, Pi0, GR00T) for perception-driven manipulation on custom prototypes.
+> Integrated SO-101 arm, ZED Mini, and Hugging Face VLA models (ACT, X-VLA, Pi0, GR00T) for perception-driven manipulation on custom prototypes built with Arduino, ESP32, and Jetson Nano.
+
+`LeRobot` `ZED Mini` `VLA` `ACT` `GR00T` `Jetson Nano` `Arduino`
 
 ---
 
@@ -83,33 +107,43 @@ devadas = {
 
 <div align="center">
 
-**Robotics & Autonomy**
+### Robotics & Autonomy
 
-![ROS2](https://img.shields.io/badge/ROS_2-5%2F5-22314E?style=flat-square&logo=ros&logoColor=white)
-![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-5%2F5-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![MuJoCo](https://img.shields.io/badge/MuJoCo-4%2F5-FF6F00?style=flat-square)
-![Nav2](https://img.shields.io/badge/Nav2-5%2F5-0078D4?style=flat-square)
-![Franka_FR3](https://img.shields.io/badge/Franka_FR3-4%2F5-E63946?style=flat-square)
+![ROS2](https://img.shields.io/badge/ROS_2-5%2F5-0d1e35?style=flat-square&logo=ros&logoColor=26c6da)
+![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-5%2F5-0d1e35?style=flat-square&logo=nvidia&logoColor=76b900)
+![Nav2](https://img.shields.io/badge/Nav2-5%2F5-0d1e35?style=flat-square&logoColor=42a5f5)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-4%2F5-0d1e35?style=flat-square&logoColor=ff6f00)
+![Gazebo](https://img.shields.io/badge/Gazebo-4%2F5-0d1e35?style=flat-square&logoColor=26a69a)
+![Franka_FR3](https://img.shields.io/badge/Franka_FR3-4%2F5-0d1e35?style=flat-square&logoColor=ef5350)
+![CARLA](https://img.shields.io/badge/CARLA-3%2F5-0d1e35?style=flat-square&logoColor=ab47bc)
 
-**AI & Robot Learning**
+### AI & Robot Learning
 
-![PyTorch](https://img.shields.io/badge/PyTorch-5%2F5-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![RL](https://img.shields.io/badge/Reinforcement_Learning-4%2F5-9B5DE5?style=flat-square)
-![VLA](https://img.shields.io/badge/VLA_Models_HuggingFace-4%2F5-FFD166?style=flat-square&logo=huggingface&logoColor=black)
-![YOLO](https://img.shields.io/badge/YOLO-5%2F5-00B4D8?style=flat-square)
-![SAM2](https://img.shields.io/badge/SAM--2-4%2F5-EF476F?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-5%2F5-0d1e35?style=flat-square&logo=pytorch&logoColor=ee4c2c)
+![YOLO](https://img.shields.io/badge/YOLO-5%2F5-0d1e35?style=flat-square&logoColor=26c6da)
+![RL](https://img.shields.io/badge/Reinforcement_Learning-4%2F5-0d1e35?style=flat-square&logoColor=ab47bc)
+![SAM2](https://img.shields.io/badge/SAM--2-4%2F5-0d1e35?style=flat-square&logoColor=ef5350)
+![VLA](https://img.shields.io/badge/VLA_Models_HuggingFace-4%2F5-0d1e35?style=flat-square&logo=huggingface&logoColor=f9a825)
+![Imitation](https://img.shields.io/badge/Imitation_Learning-4%2F5-0d1e35?style=flat-square&logoColor=26a69a)
 
-**Programming**
+### Programming
 
-![Python](https://img.shields.io/badge/Python-5%2F5-3572A5?style=flat-square&logo=python&logoColor=white)
-![CPP](https://img.shields.io/badge/C%2B%2B-4%2F5-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-5%2F5-E16737?style=flat-square)
+![Python](https://img.shields.io/badge/Python-5%2F5-0d1e35?style=flat-square&logo=python&logoColor=4fc3f7)
+![CPP](https://img.shields.io/badge/C%2B%2B-4%2F5-0d1e35?style=flat-square&logo=cplusplus&logoColor=42a5f5)
+![MATLAB](https://img.shields.io/badge/MATLAB-5%2F5-0d1e35?style=flat-square&logoColor=e16737)
 
-**Hardware**
+### Perception & Vision
 
-![Jetson](https://img.shields.io/badge/Jetson_Nano-4%2F5-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![RealSense](https://img.shields.io/badge/Intel_RealSense-5%2F5-0071C5?style=flat-square&logo=intel&logoColor=white)
-![3DPrint](https://img.shields.io/badge/3D_Printing-4%2F5-F77F00?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5%2F5-0d1e35?style=flat-square&logo=opencv&logoColor=26c6da)
+![RealSense](https://img.shields.io/badge/Intel_RealSense-5%2F5-0d1e35?style=flat-square&logo=intel&logoColor=0071c5)
+![ZED](https://img.shields.io/badge/ZED_Mini-4%2F5-0d1e35?style=flat-square&logoColor=ab47bc)
+
+### Hardware & Embedded
+
+![Jetson](https://img.shields.io/badge/Jetson_Nano-4%2F5-0d1e35?style=flat-square&logo=nvidia&logoColor=76b900)
+![Arduino](https://img.shields.io/badge/Arduino-4%2F5-0d1e35?style=flat-square&logo=arduino&logoColor=26a69a)
+![3DPrint](https://img.shields.io/badge/3D_Printing-4%2F5-0d1e35?style=flat-square&logoColor=f9a825)
+![CAD](https://img.shields.io/badge/CAD_Fusion360-4%2F5-0d1e35?style=flat-square&logoColor=42a5f5)
 
 </div>
 
@@ -118,12 +152,12 @@ devadas = {
 ## `> cat ./thesis.txt`
 
 ```
-📄 Master Thesis II (Ongoing — FAU/FAPS)
+📄 Master Thesis II  (Ongoing — FAU / FAPS)
    → RL-based navigation & object manipulation
    → Custom assistive mobile manipulator
-   → Real robot deployment target: 2026
+   → Target: real robot deployment 2026
 
-📄 Master Thesis I (Completed, May–Dec 2025)
+📄 Master Thesis I  (Completed — May to Dec 2025)
    → Isaac Sim multibody dynamic simulation
    → Assistive robot with autonomous indoor navigation
    → ROS 2 + Nav2 + custom URDF pipeline
@@ -131,13 +165,30 @@ devadas = {
 
 ---
 
-## `> git log --pretty="%h %s"`
+## `> cat ./education.txt`
+
+```
+🎓 M.Sc. Electromobility — Robotics & AI Track
+   Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+   Mar 2023 – Present  |  GPA: 1.8 / 5.0  (German scale, 1.0 is highest)
+   Modules: ROS · Robot Mechanism & Control · ML · HRI · Mechatronics
+
+🎓 B.Tech. Mechanical & Production Engineering
+   TKM College of Engineering, Kerala University
+   Jun 2014 – May 2018
+   Project: Design & fabrication of a multi-utility hybrid electric vehicle
+```
+
+---
+
+## `> git log --oneline`
 
 ```
 141 contributions in the last year
-Languages: Python · Jupyter Notebook · MATLAB · C++
-Org:       @RobotDLO
-Status:    🟢 Actively building
+Languages  :  Python · Jupyter Notebook · MATLAB · C++
+Hardware   :  Franka FR3 · Jetson Nano · RealSense · ZED Mini · SO-101
+Org        :  @RobotDLO
+Status     :  🟢 Actively building
 ```
 
 ---
@@ -146,7 +197,12 @@ Status:    🟢 Actively building
 
 <div align="center">
 
-📧 **devadasvs2022@gmail.com** &nbsp;|&nbsp; 📞 **+49 176 7196 3595** &nbsp;|&nbsp; 📍 **Nuremberg, Germany**
+[![Email](https://img.shields.io/badge/devadasvs2022%40gmail.com-0d1e35?style=for-the-badge&logo=gmail&logoColor=26a69a)](mailto:devadasvs2022@gmail.com)
+[![Phone](https://img.shields.io/badge/%2B49_176_7196_3595-0d1e35?style=for-the-badge&logo=whatsapp&logoColor=26c6da)](tel:+4917671963595)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1e35?style=for-the-badge&logo=linkedin&logoColor=42a5f5)](https://www.linkedin.com/in/devadas-vijayan-sheela)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1e35?style=for-the-badge&logo=github&logoColor=4fc3f7)](https://github.com/DevadasVijayansheel)
+
+<br>
 
 *Open to research collaborations, robotics engineering roles, and AI/autonomy positions.*
 
@@ -154,6 +210,8 @@ Status:    🟢 Actively building
 
 *"The best robot is one that works in the real world — not just in simulation."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=DevadasVijayansheel&color=58a6ff&style=flat-square&label=Profile+Views)
+<br>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=DevadasVijayansheel&color=0d1e35&style=flat-square&label=Profile+Views)
 
 </div>
