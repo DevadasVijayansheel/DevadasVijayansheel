@@ -10,7 +10,9 @@
 ![SHEELA](https://img.shields.io/badge/SHEELA-76FF03?style=for-the-badge)
 
 
-![Devadas Vijayan Sheela](https://img.shields.io/badge/DEVADAS_VIJAYAN_SHEELA-Robotics_Researcher-6e40c9?style=for-the-badge&logo=robotframework&logoColor=white)
+
+![Robotics Research Assistant](https://img.shields.io/badge/Robotics_Research_Assistant-6e40c9?style=for-the-badge&logo=robotframework&logoColor=white)
+
 
 
 ### Robotics & AI Research Assistant · M.Sc. Electromobility (Robotics & AI) · FAU Erlangen-Nürnberg
