@@ -30,18 +30,25 @@
 ---
 ```
 
+## Research Profile
 
-## `> whoami`
+```yaml
+name: Devadas Vijayan Sheela
 
-```python
-devadas = {
-    "role"      : "Robotics & AI Research Assistant",
-    "degree"    : "M.Sc. Electromobility — Robotics & AI Track @ FAU",
-    "thesis"    : "RL-based navigation & manipulation for assistive mobile manipulators",
-    "location"  : "Nuremberg, Bavaria, Germany",
-    "open_to"   : ["Research roles", "Robotics Engineering", "AI / Autonomy positions"],
-    "currently" : "Training robots to navigate, grasp, and understand the world 🤖"
-}
+role:
+  - Robotics & AI Research Assistant
+
+research_interests:
+  - Robot Learning
+  - Reinforcement Learning
+  - Autonomous Navigation
+  - Robotic Manipulation
+  - Vision-Language-Action Models
+
+current_work:
+  - Assistive Mobile Manipulators
+  - Isaac Sim & ROS 2
+  - Sim-to-Real Robotics
 ```
 
 > I build robots that think. My work spans drone autonomy, sim-to-real RL, vision-language-action models, and robotic manipulation — from simulation in Isaac Sim to real hardware on the Franka FR3.
