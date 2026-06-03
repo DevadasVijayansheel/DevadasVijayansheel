@@ -1,16 +1,151 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DevadasVijayansheel/DevadasVijayansheel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+██████╗ ██╗   ██╗███████╗
+██╔══██╗██║   ██║██╔════╝
+██║  ██║██║   ██║███████╗
+██║  ██║╚██╗ ██╔╝╚════██║
+██████╔╝ ╚████╔╝ ███████║
+╚═════╝   ╚═══╝  ╚══════╝
+```
 
-Here are some ideas to get you started:
+# Devadas Vijayan Sheela
+### Robotics & AI Research Assistant · M.Sc. Electromobility (Robotics & AI) · FAU Erlangen-Nürnberg
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-DevadasVijayansheel-181717?style=flat-square&logo=github)](https://github.com/DevadasVijayansheel)
+[![Location](https://img.shields.io/badge/📍-Nuremberg,_Germany-0078D4?style=flat-square)](https://maps.google.com/?q=Nuremberg)
+[![Email](https://img.shields.io/badge/Email-devadasvs2022@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:devadasvs2022@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/devadasvijayansheel)
+[![Organization](https://img.shields.io/badge/Org-@RobotDLO-6e40c9?style=flat-square&logo=github)](https://github.com/RobotDLO)
+
+</div>
+
+---
+
+## `> whoami`
+
+```python
+devadas = {
+    "role"      : "Robotics & AI Research Assistant",
+    "degree"    : "M.Sc. Electromobility — Robotics & AI Track @ FAU",
+    "thesis"    : "RL-based navigation & manipulation for assistive mobile manipulators",
+    "location"  : "Nuremberg, Bavaria, Germany 🇩🇪",
+    "open_to"   : ["Research roles", "Robotics Engineering", "AI / Autonomy positions"],
+    "currently" : "Training robots to navigate, grasp, and understand the world 🤖"
+}
+```
+
+> I build robots that think. My work spans drone autonomy, sim-to-real RL, vision-language-action models, and robotic manipulation — from simulation in Isaac Sim to real hardware on the Franka FR3.
+
+---
+
+## `> research --current`
+
+| Role | Institute | Focus |
+|------|-----------|-------|
+| 🔬 **Research Assistant** | University of Technology Nuremberg (UTN) | Robotic manipulators · Bin-picking benchmarking · Scientific publications |
+| 🦾 **Thesis Researcher** | FAPS, FAU Erlangen | RL navigation · Isaac Sim · ROS 2 · Assistive mobile manipulators |
+| 🚁 **Research Assistant** | Fraunhofer IVI | Autonomous drones · YOLO · RealSense depth cameras |
+
+---
+
+## `> ls ./projects`
+
+### 🚁 [Autonomous Drone Systems](https://github.com/DevadasVijayansheel/Autonomous-Drone-Systems)
+> YOLO-based object detection + collision avoidance for autonomous drones using Intel RealSense depth cameras. Validated with real-world flight experiments @ Fraunhofer IVI.
+
+### 🦾 [Image Segmentation for Robotic Grasping](https://github.com/DevadasVijayansheel/image-segmentation-for-robotic-grasping)
+> SAM-2 segmentation pipeline in Python/PyTorch/OpenCV — enabling robots to identify and grasp objects from visual input.
+
+### ⚡ [NVIDIA Isaac Sim](https://github.com/DevadasVijayansheel/NVIDIA-Isaacsim)
+> CAD-to-URDF workflows, multibody dynamic simulation, and autonomous indoor navigation for custom assistive robots. ROS 2 + Nav2 integration.
+
+### 🤖 [Robot Control Stack](https://github.com/DevadasVijayansheel/robot-control-stack)
+> Forked & extended: lean sim-to-real framework for VLA models & RL agents. Native MuJoCo Gymnasium wrappers for Franka FR3 and UR5e.
+
+### 🧠 [Machine Learning](https://github.com/DevadasVijayansheel/Machine-Learning)
+> Research notebooks: RL, deep learning, imitation learning experiments.
+
+### 🔧 Hardware Prototyping — LeRobot SO-101 & VLA Integration
+> Integrated SO-101 arm, ZED Mini, and Hugging Face VLA models (ACT, X-VLA, Pi0, GR00T) for perception-driven manipulation on custom prototypes.
+
+---
+
+## `> skills --verbose`
+
+<div align="center">
+
+**Robotics & Autonomy**
+
+![ROS2](https://img.shields.io/badge/ROS_2-★★★★★-22314E?style=flat-square&logo=ros&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-★★★★★-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-★★★★☆-FF6F00?style=flat-square)
+![Nav2](https://img.shields.io/badge/Nav2-★★★★★-0078D4?style=flat-square)
+![Franka_FR3](https://img.shields.io/badge/Franka_FR3-★★★★☆-E63946?style=flat-square)
+
+**AI & Robot Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-★★★★★-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![RL](https://img.shields.io/badge/Reinforcement_Learning-★★★★☆-9B5DE5?style=flat-square)
+![VLA](https://img.shields.io/badge/VLA_Models_(HuggingFace)-★★★★☆-FFD166?style=flat-square)
+![YOLO](https://img.shields.io/badge/YOLO-★★★★★-00B4D8?style=flat-square)
+![SAM2](https://img.shields.io/badge/SAM--2-★★★★☆-EF476F?style=flat-square)
+
+**Programming**
+
+![Python](https://img.shields.io/badge/Python-★★★★★-3572A5?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-★★★★☆-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-★★★★★-E16737?style=flat-square)
+
+**Hardware**
+
+![Jetson](https://img.shields.io/badge/Jetson_Nano-★★★★☆-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![RealSense](https://img.shields.io/badge/Intel_RealSense-★★★★★-0071C5?style=flat-square&logo=intel&logoColor=white)
+![3DPrint](https://img.shields.io/badge/3D_Printing-★★★★☆-F77F00?style=flat-square)
+
+</div>
+
+---
+
+## `> cat ./thesis.txt`
+
+```
+📄 Master Thesis II (Ongoing — FAU/FAPS)
+   → RL-based navigation & object manipulation
+   → Custom assistive mobile manipulator
+   → Real robot deployment target: 2026
+
+📄 Master Thesis I (Completed, May–Dec 2025)
+   → Isaac Sim multibody dynamic simulation
+   → Assistive robot with autonomous indoor navigation
+   → ROS 2 + Nav2 + custom URDF pipeline
+```
+
+---
+
+## `> git log --pretty="%h %s"`
+
+```
+141 contributions in the last year
+Languages: Python · Jupyter Notebook · MATLAB · C++
+Org:       @RobotDLO
+Status:    🟢 Actively building
+```
+
+---
+
+## `> contact`
+
+<div align="center">
+
+📧 **devadasvs2022@gmail.com** &nbsp;|&nbsp; 📞 **+49 176 7196 3595** &nbsp;|&nbsp; 📍 **Nuremberg, Germany**
+
+*Open to research collaborations, robotics engineering roles, and AI/autonomy positions.*
+
+---
+
+*"The best robot is one that works in the real world — not just in simulation."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=DevadasVijayansheel&color=58a6ff&style=flat-square&label=Profile+Views)
+
+</div>
