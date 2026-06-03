@@ -21,8 +21,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-DevadasVijayansheel-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevadasVijayansheel)
 [![Location](https://img.shields.io/badge/Location-Nuremberg%2C_Germany-0078D4?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Nuremberg)
 [![Email](https://img.shields.io/badge/Email-devadasvs2022%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:devadasvs2022@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devadas-vijayan-sheela)
-[![Organization](https://img.shields.io/badge/Org-%40RobotDLO-6e40c9?style=flat-square&logo=github&logoColor=white)](https://github.com/RobotDLO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayan-sheela)
+
 
 </div>
 
