@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/banner.png.png" width="100%">
+</p>
 
 <div align="center">
 
@@ -8,7 +11,6 @@
 ![Robotics Research Assistant](https://img.shields.io/badge/Robotics_Research_Assistant-6e40c9?style=for-the-badge&logo=robotframework&logoColor=white)
 
 </div>
-
 
 <div align="center">
 
