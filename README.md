@@ -1,22 +1,30 @@
 <div align="center">
 
 ```
-██████╗ ██╗   ██╗███████╗
-██╔══██╗██║   ██║██╔════╝
-██║  ██║██║   ██║███████╗
-██║  ██║╚██╗ ██╔╝╚════██║
-██████╔╝ ╚████╔╝ ███████║
-╚═════╝   ╚═══╝  ╚══════╝
+ ___   ___ __   __   _    ___     _    ___
+|   \ | __| \ \ / /  /_\  |   \   /_\  / __|
+| |) || _|   \ V /  / _ \ | |) | / _ \ \__ \
+|___/ |___|   \_/  /_/ \_\|___/ /_/ \_\|___/
+
+__   __ ___     _    _   __   __   _    _  _
+\ \ / /|_ _| _ | |  /_\  \ \ / /  /_\  | \| |
+ \ V /  | | | || | / _ \  \ V /  / _ \ | .` |
+  \_/  |___| \__/ /_/ \_\  |_|  /_/ \_\|_|\_|
+
+ ___  _  _  ___  ___  _       _
+/ __|| || || __|| __|| |     /_\
+\__ \| __ || _| | _| | |__  / _ \
+|___/|_||_||___||___||____|/_/ \_\
 ```
 
 # Devadas Vijayan Sheela
 ### Robotics & AI Research Assistant · M.Sc. Electromobility (Robotics & AI) · FAU Erlangen-Nürnberg
 
-[![GitHub](https://img.shields.io/badge/GitHub-DevadasVijayansheel-181717?style=flat-square&logo=github)](https://github.com/DevadasVijayansheel)
-[![Location](https://img.shields.io/badge/📍-Nuremberg,_Germany-0078D4?style=flat-square)](https://maps.google.com/?q=Nuremberg)
-[![Email](https://img.shields.io/badge/Email-devadasvs2022@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:devadasvs2022@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/devadasvijayansheel)
-[![Organization](https://img.shields.io/badge/Org-@RobotDLO-6e40c9?style=flat-square&logo=github)](https://github.com/RobotDLO)
+[![GitHub](https://img.shields.io/badge/GitHub-DevadasVijayansheel-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevadasVijayansheel)
+[![Location](https://img.shields.io/badge/Location-Nuremberg%2C_Germany-0078D4?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Nuremberg)
+[![Email](https://img.shields.io/badge/Email-devadasvs2022%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:devadasvs2022@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devadas-vijayan-sheela)
+[![Organization](https://img.shields.io/badge/Org-%40RobotDLO-6e40c9?style=flat-square&logo=github&logoColor=white)](https://github.com/RobotDLO)
 
 </div>
 
@@ -29,7 +37,7 @@ devadas = {
     "role"      : "Robotics & AI Research Assistant",
     "degree"    : "M.Sc. Electromobility — Robotics & AI Track @ FAU",
     "thesis"    : "RL-based navigation & manipulation for assistive mobile manipulators",
-    "location"  : "Nuremberg, Bavaria, Germany 🇩🇪",
+    "location"  : "Nuremberg, Bavaria, Germany",
     "open_to"   : ["Research roles", "Robotics Engineering", "AI / Autonomy positions"],
     "currently" : "Training robots to navigate, grasp, and understand the world 🤖"
 }
@@ -77,31 +85,31 @@ devadas = {
 
 **Robotics & Autonomy**
 
-![ROS2](https://img.shields.io/badge/ROS_2-★★★★★-22314E?style=flat-square&logo=ros&logoColor=white)
-![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-★★★★★-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![MuJoCo](https://img.shields.io/badge/MuJoCo-★★★★☆-FF6F00?style=flat-square)
-![Nav2](https://img.shields.io/badge/Nav2-★★★★★-0078D4?style=flat-square)
-![Franka_FR3](https://img.shields.io/badge/Franka_FR3-★★★★☆-E63946?style=flat-square)
+![ROS2](https://img.shields.io/badge/ROS_2-5%2F5-22314E?style=flat-square&logo=ros&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-5%2F5-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-4%2F5-FF6F00?style=flat-square)
+![Nav2](https://img.shields.io/badge/Nav2-5%2F5-0078D4?style=flat-square)
+![Franka_FR3](https://img.shields.io/badge/Franka_FR3-4%2F5-E63946?style=flat-square)
 
 **AI & Robot Learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-★★★★★-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![RL](https://img.shields.io/badge/Reinforcement_Learning-★★★★☆-9B5DE5?style=flat-square)
-![VLA](https://img.shields.io/badge/VLA_Models_(HuggingFace)-★★★★☆-FFD166?style=flat-square)
-![YOLO](https://img.shields.io/badge/YOLO-★★★★★-00B4D8?style=flat-square)
-![SAM2](https://img.shields.io/badge/SAM--2-★★★★☆-EF476F?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-5%2F5-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![RL](https://img.shields.io/badge/Reinforcement_Learning-4%2F5-9B5DE5?style=flat-square)
+![VLA](https://img.shields.io/badge/VLA_Models_HuggingFace-4%2F5-FFD166?style=flat-square&logo=huggingface&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLO-5%2F5-00B4D8?style=flat-square)
+![SAM2](https://img.shields.io/badge/SAM--2-4%2F5-EF476F?style=flat-square)
 
 **Programming**
 
-![Python](https://img.shields.io/badge/Python-★★★★★-3572A5?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-★★★★☆-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-★★★★★-E16737?style=flat-square)
+![Python](https://img.shields.io/badge/Python-5%2F5-3572A5?style=flat-square&logo=python&logoColor=white)
+![CPP](https://img.shields.io/badge/C%2B%2B-4%2F5-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-5%2F5-E16737?style=flat-square)
 
 **Hardware**
 
-![Jetson](https://img.shields.io/badge/Jetson_Nano-★★★★☆-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![RealSense](https://img.shields.io/badge/Intel_RealSense-★★★★★-0071C5?style=flat-square&logo=intel&logoColor=white)
-![3DPrint](https://img.shields.io/badge/3D_Printing-★★★★☆-F77F00?style=flat-square)
+![Jetson](https://img.shields.io/badge/Jetson_Nano-4%2F5-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![RealSense](https://img.shields.io/badge/Intel_RealSense-5%2F5-0071C5?style=flat-square&logo=intel&logoColor=white)
+![3DPrint](https://img.shields.io/badge/3D_Printing-4%2F5-F77F00?style=flat-square)
 
 </div>
 
