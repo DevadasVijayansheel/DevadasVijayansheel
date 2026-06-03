@@ -27,29 +27,35 @@
 
 </div>
 
----
-```
-
 ## Research Profile
 
-```yaml
-name: Devadas Vijayan Sheela
+<table>
+<tr>
+<td>
 
-role:
-  - Robotics & AI Research Assistant
+### Devadas Vijayan Sheela
 
-research_interests:
-  - Robot Learning
-  - Reinforcement Learning
-  - Autonomous Navigation
-  - Robotic Manipulation
-  - Vision-Language-Action Models
+**Robotics & AI Research Assistant**
 
-current_work:
-  - Assistive Mobile Manipulators
-  - Isaac Sim & ROS 2
-  - Sim-to-Real Robotics
-```
+Researcher working on robot learning, autonomous navigation, robotic manipulation, and sim-to-real robotics.
+
+**Research Interests**
+
+- Robot Learning  
+- Reinforcement Learning  
+- Autonomous Navigation  
+- Robotic Manipulation  
+- Vision-Language-Action Models  
+
+**Current Work**
+
+- Assistive Mobile Manipulators  
+- Isaac Sim & ROS 2  
+- Sim-to-Real Robotics  
+
+</td>
+</tr>
+</table>
 
 > I build robots that think. My work spans drone autonomy, sim-to-real RL, vision-language-action models, and robotic manipulation — from simulation in Isaac Sim to real hardware on the Franka FR3.
 
