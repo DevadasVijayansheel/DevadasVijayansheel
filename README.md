@@ -11,7 +11,7 @@
 
 
 <div align="center">
-### M.Sc. Electromobility (Robotics & AI) · FAU Erlangen-Nürnberg
+M.Sc. Electromobility (Robotics & AI) · FAU Erlangen-Nürnberg
 </div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-DevadasVijayansheel-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevadasVijayansheel)
