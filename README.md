@@ -11,11 +11,11 @@
 
 
 
-![Robotics Research Assistant](https://img.shields.io/badge/Robotics_Research_Assistant-6e40c9?style=for-the-badge&logo=robotframework&logoColor=white)
+![Robotics & AI Research Assistant](https://img.shields.io/badge/Robotics_Research_Assistant-6e40c9?style=for-the-badge&logo=robotframework&logoColor=white)
 
 
 
-### Robotics & AI Research Assistant · M.Sc. Electromobility (Robotics & AI) · FAU Erlangen-Nürnberg
+###M.Sc. Electromobility (Robotics & AI) · FAU Erlangen-Nürnberg
 [![GitHub](https://img.shields.io/badge/GitHub-DevadasVijayansheel-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevadasVijayansheel)
 [![Location](https://img.shields.io/badge/Location-Nuremberg%2C_Germany-0078D4?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Nuremberg)
 [![Email](https://img.shields.io/badge/Email-devadasvs2022%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:devadasvs2022@gmail.com)
