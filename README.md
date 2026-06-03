@@ -59,17 +59,49 @@ Researcher working on robot learning, autonomous navigation, robotic manipulatio
 
 > I build robots that think. My work spans drone autonomy, sim-to-real RL, vision-language-action models, and robotic manipulation — from simulation in Isaac Sim to real hardware on the Franka FR3.
 
----
 
-## `> research --current`
+## Research Experience
 
-| Role | Institute | Focus |
-|------|-----------|-------|
-| 🔬 **Research Assistant** | University of Technology Nuremberg (UTN) | Robotic manipulators · Bin-picking benchmarking · Scientific publications |
-| 🦾 **Thesis Researcher** | FAPS, FAU Erlangen | RL navigation · Isaac Sim · ROS 2 · Assistive mobile manipulators |
-| 🚁 **Research Assistant** | Fraunhofer IVI | Autonomous drones · YOLO · RealSense depth cameras |
+<table>
+<tr>
+<td width="33%" valign="top">
 
----
+### 🔬 Research Assistant
+**University of Technology Nuremberg (UTN)**
+
+- Robotic Manipulators
+- Bin-Picking Benchmarking
+- Scientific Publications
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🦾 Thesis Researcher
+**FAPS, FAU Erlangen-Nürnberg**
+
+- Reinforcement Learning
+- Isaac Sim & Isaac Lab
+- ROS 2
+- Assistive Mobile Manipulators
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🚁 Research Assistant
+**Fraunhofer IVI**
+
+- Autonomous Drones
+- YOLO-Based Perception
+- Intel RealSense Cameras
+
+</td>
+</tr>
+</table>
+```
+
+
 
 ## `> ls ./projects`
 
