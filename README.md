@@ -57,10 +57,5 @@ Researcher working on robot learning, autonomous navigation, robotic manipulatio
 </tr>
 </table>
 
-> I build robots that think. My work spans drone autonomy, sim-to-real RL, vision-language-action models, and robotic manipulation — from simulation in Isaac Sim to real hardware on the Franka FR3.
-
----
-
-
 
 
