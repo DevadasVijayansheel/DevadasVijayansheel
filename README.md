@@ -9,9 +9,19 @@
 ╚═════╝   ╚═══╝  ╚══════╝
 ```
 
+
+
+
+![D](https://img.shields.io/badge/D-00E5FF?style=for-the-badge)
+![V](https://img.shields.io/badge/V-FF4081?style=for-the-badge)
+![S](https://img.shields.io/badge/S-76FF03?style=for-the-badge)
+
+
+
+![Devadas Vijayan Sheela](https://img.shields.io/badge/Devadas_Vijayan_Sheela-Robotics_%7C_AI_%7C_ROS2-6e40c9?style=for-the-badge&logo=robotframework&logoColor=white)
+
 # Devadas Vijayan Sheela
 ### Robotics & AI Research Assistant · M.Sc. Electromobility (Robotics & AI) · FAU Erlangen-Nürnberg
-
 [![GitHub](https://img.shields.io/badge/GitHub-DevadasVijayansheel-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevadasVijayansheel)
 [![Location](https://img.shields.io/badge/Location-Nuremberg%2C_Germany-0078D4?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Nuremberg)
 [![Email](https://img.shields.io/badge/Email-devadasvs2022%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:devadasvs2022@gmail.com)
@@ -111,19 +121,20 @@ devadas = {
 
 ```
 📄 Master Thesis II (Ongoing — FAU/FAPS)
-   → RL-based navigation & object manipulation
-   → Custom assistive mobile manipulator
-   → Real robot deployment target: 2026
+→ Reinforcement Learning for Assistive Robotics
+→ Robot Navigation and Manipulation
+→ Isaac Lab
+→ Experimental Validation on Real Robotic Platforms
 
 📄 Master Thesis I (Completed, May–Dec 2025)
-   → Isaac Sim multibody dynamic simulation
-   → Assistive robot with autonomous indoor navigation
-   → ROS 2 + Nav2 + custom URDF pipeline
+→ Isaac Sim multibody dynamic simulation
+→ Assistive robot with autonomous indoor navigation
+→ ROS 2 + Nav2 + custom URDF pipeline
 ```
 
 ---
 
-## `> git log --pretty="%h %s"`
+## `> status`"`
 
 ```
 141 contributions in the last year
